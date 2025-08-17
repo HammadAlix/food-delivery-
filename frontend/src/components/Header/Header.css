@@ -1,7 +1,7 @@
 .header {
     height: 34vw;
     margin: 30px auto;
-    background-image: url("./header_img.png");
+    
     background-size: cover; /* Change from 'contain' to 'cover' */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Prevent the image from repeating */
